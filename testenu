@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <packageSources>
+    <clear />
+    <add key="fffa.Core" value="https://pkgs.dev.azure.com/_packaging/aa.Core/nuget/v3/index.json" />
+          <add key="Nuget.org" value="https://api.nuget.org/v3/index.json" />
+  </packageSources>
+  <packageSourceCredentials>
+    <aa.Core>
+        <add key="Username" value="nome@nome.com.br" />
+        <add key="ClearTextPassword" value="fgrgrthrthrthrthhgaxdhdlrqwicpdc2a3kua" />
+    </aa.Core>
+</packageSourceCredentials>
+</configuration>
